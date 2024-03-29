@@ -2,6 +2,12 @@
 
 This is a simple authentication system built using Node.js, MongoDB, Mongoose, EJS, and JSON Web Token (JWT) for authentication.
 
+![Screenshot1](/Screenshots/Screenshot1.png)
+![Screenshot2](/Screenshots/Screenshot2.png)
+![Screenshot3](/Screenshots/Screenshot3.png)
+
+
+
 ## Features
 
 - User registration with email and password
