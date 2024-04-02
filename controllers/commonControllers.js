@@ -2,6 +2,6 @@ module.exports.home_get = (req, res) =>{
     res.render('home');
 }
 
-module.exports.smoothies_get = (req, res) =>{
+module.exports.protected_get = (req, res) =>{
     res.render('protected');
 }
