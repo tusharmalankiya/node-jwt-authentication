@@ -1,6 +1,6 @@
 # Node.js Authentication System with JSON Web Token (JWT)
 
-This is a simple authentication system built using Node.js, MongoDB, Mongoose, EJS, and JSON Web Token (JWT) for authentication.
+This is a basic authentication system built using Node.js, MongoDB, Mongoose, EJS, and JSON Web Token (JWT) for authentication.
 
 ![Screenshot1](/Screenshots/Screenshot1.png)
 ![Screenshot2](/Screenshots/Screenshot2.png)
